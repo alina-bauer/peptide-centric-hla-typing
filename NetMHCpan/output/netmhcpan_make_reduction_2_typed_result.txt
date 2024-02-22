@@ -1,0 +1,1154 @@
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*24:02', 'B*08:01', 'B*14:02', 'C*07:01', 'C*08:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*24', 'B*08', 'B*15', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 66.67 % of alleles from 1 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*02:01', 'B*51:01', 'B*57:01', 'C*04:01', 'C*06:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 50.00 % of alleles from 2 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*02:01', 'B*08:01', 'B*40:01', 'C*03:04', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*35', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 55.56 % of alleles from 3 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*24:02', 'B*50:01', 'B*51:01', 'C*01:02', 'C*06:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*07', 'B*51', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 54.17 % of alleles from 4 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*03:01', 'B*07:02', 'B*44:02', 'C*05:01', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*07', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 60.00 % of alleles from 5 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'B*08:01', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*08', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 60.00 % of alleles from 5 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*11:01', 'B*44:02', 'B*51:01', 'C*04:01', 'C*05:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.78 % of alleles from 6 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*29:02', 'B*08:01', 'B*44:02', 'C*07:02', 'C*16:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.38 % of alleles from 7 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*32:01', 'B*07:02', 'B*40:01', 'C*07:02', 'C*12:03']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*07', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.08 % of alleles from 8 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'B*07:02', 'B*40:01', 'C*03:04', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*32', 'B*07', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 55.19 % of alleles from 9 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*03:01', 'B*08:01', 'B*15:01', 'C*03:03', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 56.33 % of alleles from 10 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*03:01', 'A*11:01', 'B*07:02', 'B*52:01', 'C*07:02', 'C*12:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*03', 'A*11', 'B*07', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 57.27 % of alleles from 11 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'B*07:02', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*07', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 57.27 % of alleles from 11 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*11:01', 'B*44:02', 'B*51:01', 'C*04:01', 'C*05:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*35', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 55.28 % of alleles from 12 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*03:01', 'B*35:01', 'B*51:01', 'C*02:02', 'C*04:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 53.59 % of alleles from 13 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*11:01', 'A*24:02', 'B*49:01', 'B*57:01', 'C*06:02', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.14 % of alleles from 14 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*30:01', 'B*49:01', 'B*57:01', 'C*03:04', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*32', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.00 % of alleles from 15 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*03:01', 'B*07:02', 'B*14:02', 'C*07:02', 'C*08:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*29', 'B*07', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.88 % of alleles from 16 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'B*07:02', 'B*15:01', 'C*03:44', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*07', 'B*15', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 54.71 % of alleles from 17 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*03:01', 'A*31:01', 'B*35:01', 'B*51:01', 'C*04:01', 'C*15:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*03', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 53.52 % of alleles from 18 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*24:03', 'B*08:01', 'B*35:01', 'C*04:01', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*24', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 54.21 % of alleles from 19 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*24:03', 'A*30:04', 'B*14:02', 'B*18:01', 'C*07:01', 'C*08:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 53.17 % of alleles from 20 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*02:01', 'B*08:01', 'B*40:01', 'C*03:04', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 53.81 % of alleles from 21 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*32:01', 'B*35:03', 'B*44:03', 'C*04:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*35', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 54.09 % of alleles from 22 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*24:02', 'A*31:01', 'B*07:02', 'B*44:02', 'C*05:01', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*07', 'B*44', 'C*04', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 54.64 % of alleles from 23 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*03:01', 'A*24:02', 'B*15:01', 'B*51:01', 'C*03:04', 'C*14:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 54.44 % of alleles from 24 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*03:01', 'B*27:05', 'B*44:02', 'C*02:02', 'C*07:04']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 54.93 % of alleles from 25 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*23:01', 'A*26:01', 'B*35:03', 'B*44:03', 'C*04:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*35', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 54.36 % of alleles from 26 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'B*08:01', 'B*13:02', 'C*06:02', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*32', 'B*08', 'B*13', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 55.31 % of alleles from 27 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*68:01', 'B*44:03', 'B*51:01', 'C*04:01', 'C*14:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*18', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 54.52 % of alleles from 28 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*24:02', 'B*15:01', 'B*35:02', 'C*01:02', 'C*04:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 54.94 % of alleles from 29 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*03:01', 'A*26:01', 'B*07:02', 'B*40:01', 'C*01:02', 'C*03:04']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*03', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 54.22 % of alleles from 30 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'B*15:01', 'B*51:01', 'C*03:04', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 55.05 % of alleles from 31 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*11:01', 'A*24:02', 'B*07:02', 'B*27:05', 'C*02:02', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*03', 'A*24', 'B*07', 'B*15', 'C*06', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 54.90 % of alleles from 32 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*24:02', 'B*07:02', 'B*27:02', 'C*02:02', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*07', 'B*15', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 55.25 % of alleles from 33 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*32:01', 'B*07:02', 'B*08:01', 'C*07:01', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*07', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 55.59 % of alleles from 34 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*03:01', 'A*24:02', 'B*15:17', 'B*58:01', 'C*03:03', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 55.90 % of alleles from 35 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*02:01', 'B*08:01', 'B*51:01', 'C*01:02', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*32', 'B*07', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 55.28 % of alleles from 36 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'B*07:02', 'B*13:02', 'C*06:02', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*35', 'B*51', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 54.86 % of alleles from 37 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*24:02', 'B*08:01', 'B*38:01', 'C*07:01', 'C*12:03']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*08', 'B*15', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 54.74 % of alleles from 38 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*02:01', 'B*08:01', 'B*57:01', 'C*06:02', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*08', 'B*15', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 55.04 % of alleles from 39 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'B*27:05', 'B*44:02', 'C*02:02', 'C*05:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*18', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 54.67 % of alleles from 40 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*32:01', 'B*07:02', 'B*57:01', 'C*06:02', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*07', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 54.55 % of alleles from 41 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*03:01', 'A*24:02', 'B*07:02', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*03', 'A*24', 'B*07', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 55.63 % of alleles from 42 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*11:01', 'A*26:01', 'B*44:02', 'B*52:01', 'C*05:01', 'C*12:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 54.34 % of alleles from 43 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*11:01', 'A*26:01', 'B*27:05', 'B*38:01', 'C*02:02', 'C*12:03']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 53.11 % of alleles from 44 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*03:01', 'A*66:01', 'B*41:02', 'B*51:01', 'C*15:02', 'C*17:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*44', 'B*51', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.67 % of alleles from 45 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*11:01', 'B*50:01', 'B*51:01', 'C*04:01', 'C*06:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*35', 'B*51', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.25 % of alleles from 46 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*25:01', 'B*14:01', 'B*18:01', 'C*08:02', 'C*12:03']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.49 % of alleles from 47 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*03:01', 'A*24:02', 'B*40:02', 'B*51:01', 'C*01:02', 'C*02:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 50.76 % of alleles from 48 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*03:01', 'A*26:01', 'B*35:01', 'B*38:01', 'C*04:01', 'C*12:03']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*03', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 50.41 % of alleles from 49 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'B*08:01', 'B*35:02', 'C*04:01', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*07', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 50.60 % of alleles from 50 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*26:01', 'B*08:01', 'B*44:03', 'C*04:01', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 50.59 % of alleles from 51 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*03:01', 'A*29:02', 'B*07:02', 'B*44:03', 'C*07:02', 'C*16:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 50.26 % of alleles from 52 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*26:01', 'B*07:02', 'B*08:01', 'C*07:01', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*07', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 50.57 % of alleles from 53 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*03:01', 'B*35:01', 'B*40:01', 'C*03:04', 'C*04:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*35', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 50.86 % of alleles from 54 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'B*35:03', 'B*39:01', 'C*04:01', 'C*12:03']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*07', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 50.67 % of alleles from 55 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*03:01', 'B*07:02', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*07', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.55 % of alleles from 56 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*02:01', 'B*08:01', 'B*35:01', 'C*04:01', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*07', 'B*08', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.81 % of alleles from 57 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*03:01', 'B*07:02', 'B*35:01', 'C*04:01', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*03', 'B*07', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.36 % of alleles from 58 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*03:01', 'B*07:02', 'B*08:01', 'C*07:01', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*03', 'B*07', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.88 % of alleles from 59 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*02:01', 'B*08:01', 'B*44:02', 'C*07:01', 'C*07:04']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 53.39 % of alleles from 60 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*26:01', 'B*14:01', 'B*15:01', 'C*03:03', 'C*08:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*39', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 53.33 % of alleles from 61 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*03:01', 'B*15:01', 'B*51:01', 'C*01:02', 'C*12:03']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*03', 'A*11', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 53.12 % of alleles from 62 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'B*18:01', 'B*57:01', 'C*06:02', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*11', 'B*18', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.91 % of alleles from 63 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*33:03', 'A*68:01', 'B*35:01', 'B*58:01', 'C*03:02', 'C*06:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*68', 'B*07', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.86 % of alleles from 64 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*68:01', 'B*18:01', 'B*47:01', 'C*06:02', 'C*12:03']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*68', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.56 % of alleles from 65 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*03:01', 'B*15:01', 'B*44:02', 'C*03:04', 'C*07:04']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 53.03 % of alleles from 66 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*03:01', 'B*40:02', 'B*47:01', 'C*02:02', 'C*06:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*03', 'B*18', 'B*40', 'C*04', 'C*05']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.84 % of alleles from 67 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*32:01', 'B*08:01', 'B*44:02', 'C*05:01', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.79 % of alleles from 68 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*32:01', 'B*15:01', 'B*40:01', 'C*03:03', 'C*03:04']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*30', 'B*15', 'B*40', 'C*03', 'C*12']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 53.24 % of alleles from 69 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*32:01', 'B*13:02', 'B*40:02', 'C*02:02', 'C*06:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*32', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.95 % of alleles from 70 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*03:01', 'B*51:01', 'B*57:01', 'C*02:02', 'C*06:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*03', 'B*35', 'B*51', 'C*03', 'C*12']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.91 % of alleles from 71 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*03:01', 'B*07:02', 'B*51:01', 'C*07:01', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*07', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 53.33 % of alleles from 72 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*32:01', 'B*44:02', 'B*51:01', 'C*05:01', 'C*15:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 53.06 % of alleles from 73 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:05', 'A*23:01', 'B*49:01', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*40', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 53.02 % of alleles from 74 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*26:01', 'A*32:01', 'B*27:05', 'B*40:01', 'C*02:02', 'C*03:04']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.53 % of alleles from 75 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*26:01', 'B*15:01', 'B*51:01', 'C*03:03', 'C*14:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.50 % of alleles from 76 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*32:01', 'B*35:01', 'B*38:01', 'C*04:01', 'C*12:03']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.25 % of alleles from 77 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*24:02', 'B*15:01', 'B*40:01', 'C*03:03', 'C*03:04']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.65 % of alleles from 78 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*68:01', 'B*14:02', 'B*51:01', 'C*08:02', 'C*15:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*68', 'B*07', 'B*51', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.62 % of alleles from 79 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:17', 'A*32:01', 'B*15:13', 'B*35:02', 'C*03:03', 'C*04:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.79 % of alleles from 80 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'B*07:02', 'B*44:02', 'C*02:02', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*32', 'B*07', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 53.13 % of alleles from 81 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'B*18:01', 'B*44:02', 'C*05:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*32', 'B*18', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 53.39 % of alleles from 82 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*23:01', 'B*41:01', 'B*57:01', 'C*06:02', 'C*17:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.95 % of alleles from 83 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*26:01', 'B*15:17', 'B*44:05', 'C*02:02', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 53.12 % of alleles from 84 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*24:02', 'B*14:02', 'B*18:01', 'C*07:01', 'C*08:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*18', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 53.27 % of alleles from 85 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*03:01', 'B*07:02', 'B*18:01', 'C*07:02', 'C*12:03']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 53.12 % of alleles from 86 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*31:01', 'A*32:01', 'B*15:18', 'B*40:01', 'C*03:04', 'C*07:04']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*40', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 53.08 % of alleles from 87 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*26:01', 'B*38:01', 'B*58:01', 'C*07:01', 'C*12:03']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.86 % of alleles from 88 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*03:01', 'B*38:01', 'B*49:01', 'C*06:02', 'C*12:03']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.64 % of alleles from 89 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*11:01', 'B*15:01', 'B*51:01', 'C*03:03', 'C*15:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.61 % of alleles from 90 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*03:01', 'B*07:02', 'B*18:01', 'C*07:02', 'C*12:03']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*03', 'A*11', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.47 % of alleles from 91 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*02:01', 'B*07:02', 'B*51:01', 'C*07:02', 'C*14:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*07', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.63 % of alleles from 92 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*30:01', 'A*68:01', 'B*13:02', 'B*52:01', 'C*06:02', 'C*12:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*68', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.24 % of alleles from 93 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*03:01', 'B*08:01', 'B*35:01', 'C*04:01', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*03', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.39 % of alleles from 94 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*31:01', 'B*27:05', 'B*44:29', 'C*02:02', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*18', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.37 % of alleles from 95 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*23:01', 'A*66:01', 'B*49:01', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*40', 'B*44', 'C*04', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.08 % of alleles from 96 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*23:01', 'B*44:02', 'B*49:01', 'C*05:01', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*40', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.06 % of alleles from 97 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*03:01', 'B*27:05', 'B*51:01', 'C*02:02', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.04 % of alleles from 98 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'B*08:01', 'B*13:02', 'C*06:02', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*07', 'B*08', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.12 % of alleles from 99 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*29:02', 'B*08:01', 'B*44:03', 'C*07:01', 'C*16:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*07', 'B*08', 'C*03', 'C*12']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.93 % of alleles from 100 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*25:01', 'B*18:01', 'B*57:01', 'C*06:02', 'C*12:03']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.58 % of alleles from 101 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*24:10', 'B*14:02', 'B*35:30', 'C*04:01', 'C*08:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*07', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.57 % of alleles from 102 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*03:01', 'B*08:01', 'B*14:02', 'C*07:01', 'C*08:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.39 % of alleles from 103 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*03:01', 'A*23:01', 'B*08:01', 'B*15:01', 'C*03:03', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.38 % of alleles from 104 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*31:01', 'B*40:01', 'B*44:02', 'C*03:04', 'C*05:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*08', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.37 % of alleles from 105 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*03:01', 'B*38:01', 'B*44:02', 'C*05:01', 'C*12:03']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.35 % of alleles from 106 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*11:01', 'A*24:02', 'B*49:01', 'B*52:01', 'C*07:01', 'C*12:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*40', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.18 % of alleles from 107 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'B*07:02', 'B*08:01', 'C*07:01', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*24', 'B*07', 'B*08', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.64 % of alleles from 108 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*02:05', 'B*51:01', 'B*58:01', 'C*03:02', 'C*14:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*35', 'B*51', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.77 % of alleles from 109 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*11:01', 'B*07:02', 'B*44:03', 'C*07:02', 'C*16:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*24', 'B*07', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.85 % of alleles from 110 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*03:01', 'A*66:01', 'B*14:01', 'B*41:02', 'C*08:02', 'C*17:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*18', 'B*40', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.53 % of alleles from 111 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*31:01', 'B*08:01', 'B*55:01', 'C*03:03', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*07', 'B*08', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.67 % of alleles from 112 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:02', 'A*11:01', 'B*35:02', 'B*44:05', 'C*02:02', 'C*04:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*35', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.65 % of alleles from 113 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*03:01', 'A*26:01', 'B*35:01', 'B*38:01', 'C*04:01', 'C*12:03']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*03', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.49 % of alleles from 114 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:05', 'A*24:02', 'B*07:02', 'B*55:01', 'C*01:02', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*07', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.62 % of alleles from 115 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*02:01', 'B*08:01', 'B*38:01', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.70 % of alleles from 116 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*33:01', 'B*13:02', 'B*14:02', 'C*06:02', 'C*08:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*68', 'B*07', 'B*15', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.40 % of alleles from 117 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*24:02', 'B*07:02', 'B*08:01', 'C*07:01', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*24', 'B*15', 'B*35', 'C*04', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.53 % of alleles from 118 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*24:02', 'A*25:01', 'B*07:02', 'B*52:01', 'C*07:02', 'C*12:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.37 % of alleles from 119 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*24:02', 'A*68:01', 'B*51:01', 'B*56:01', 'C*01:02', 'C*02:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*07', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.08 % of alleles from 120 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*03:01', 'A*26:01', 'B*07:02', 'B*35:01', 'C*04:01', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*07', 'B*35', 'C*04', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.21 % of alleles from 121 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'B*35:03', 'B*40:01', 'C*03:04', 'C*04:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*32', 'B*07', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.28 % of alleles from 122 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*30:01', 'A*33:03', 'B*13:02', 'B*44:02', 'C*06:02', 'C*07:04']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*68', 'B*13', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.27 % of alleles from 123 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*31:01', 'B*07:02', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*07', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.47 % of alleles from 124 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*11:01', 'A*68:01', 'B*15:01', 'B*51:01', 'C*03:03', 'C*14:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*23', 'A*24', 'B*15', 'B*51', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.45 % of alleles from 125 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*03:01', 'B*07:02', 'B*08:01', 'C*07:01', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*03', 'B*07', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.71 % of alleles from 126 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*24:02', 'A*68:01', 'B*15:17', 'B*40:01', 'C*03:04', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.82 % of alleles from 127 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*03:01', 'A*32:03', 'B*15:17', 'B*35:01', 'C*04:01', 'C*15:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.81 % of alleles from 128 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*03:01', 'B*27:02', 'B*35:03', 'C*02:02', 'C*04:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*07', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.80 % of alleles from 129 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*02:01', 'B*08:01', 'B*44:02', 'C*05:01', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.91 % of alleles from 130 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*26:01', 'B*07:10', 'B*40:01', 'C*03:04', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*35', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.90 % of alleles from 131 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*02:01', 'B*08:01', 'B*15:01', 'C*03:04', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.13 % of alleles from 132 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*24:02', 'B*35:01', 'B*57:01', 'C*04:01', 'C*06:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*24', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.12 % of alleles from 133 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*11:01', 'B*14:01', 'B*55:01', 'C*03:03', 'C*08:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*07', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.98 % of alleles from 134 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*68:02', 'B*15:01', 'B*53:01', 'C*03:03', 'C*04:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.96 % of alleles from 135 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'B*40:01', 'C*03:04']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*68', 'B*40', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.96 % of alleles from 135 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*31:01', 'B*15:01', 'B*18:01', 'C*03:04', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.07 % of alleles from 136 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*03:01', 'A*68:01', 'B*07:02', 'B*18:01', 'C*07:01', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*03', 'A*68', 'B*07', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.30 % of alleles from 137 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*02:06', 'B*27:05', 'B*35:01', 'C*03:03', 'C*04:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.40 % of alleles from 138 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*03:01', 'B*27:05', 'B*40:01', 'C*01:02', 'C*03:04']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*35', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.39 % of alleles from 139 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*68:01', 'B*35:03', 'B*52:01', 'C*04:01', 'C*12:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*68', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.37 % of alleles from 140 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*03:01', 'A*30:01', 'B*35:01', 'B*44:03', 'C*04:01', 'C*16:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*03', 'B*35', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.35 % of alleles from 141 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*11:01', 'B*15:18', 'B*35:02', 'C*04:01', 'C*07:04']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*03', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.41 % of alleles from 142 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*29:02', 'B*44:03', 'B*57:01', 'C*06:02', 'C*16:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*03', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.16 % of alleles from 143 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*23:01', 'B*08:01', 'B*35:08', 'C*04:01', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*24', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.14 % of alleles from 144 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*24:02', 'B*15:01', 'B*51:01', 'C*03:03', 'C*15:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.06 % of alleles from 145 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*03:01', 'A*68:01', 'B*15:01', 'B*18:01', 'C*03:03', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*03', 'A*68', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.27 % of alleles from 146 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*03:01', 'A*31:01', 'B*18:01', 'B*44:27', 'C*05:01', 'C*07:04']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*03', 'B*18', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.37 % of alleles from 147 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*11:01', 'B*57:01', 'C*03:03', 'C*06:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*07', 'B*15', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.18 % of alleles from 148 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*30:01', 'B*07:02', 'B*13:02', 'C*06:02', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*32', 'B*07', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.17 % of alleles from 149 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*03:01', 'B*35:01', 'B*35:03', 'C*04:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*07', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.36 % of alleles from 150 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*11:01', 'B*52:01', 'C*12:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*03', 'A*11', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.36 % of alleles from 150 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*23:01', 'B*08:01', 'B*44:03', 'C*04:01', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*07', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.23 % of alleles from 151 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*23:01', 'B*44:02', 'B*49:01', 'C*05:01', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*40', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.21 % of alleles from 152 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'B*13:02', 'B*51:01', 'C*01:02', 'C*06:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*32', 'B*07', 'B*51', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.14 % of alleles from 153 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*03:01', 'B*18:01', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.28 % of alleles from 154 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*26:01', 'B*27:05', 'C*01:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.28 % of alleles from 154 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*23:01', 'B*44:02', 'B*44:03', 'C*02:02', 'C*04:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*44', 'B*51', 'C*04', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.38 % of alleles from 155 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*23:01', 'B*44:03', 'C*04:01', 'C*14:03']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*24', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.30 % of alleles from 156 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*11:01', 'B*08:01', 'B*57:01', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*07', 'B*08', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.35 % of alleles from 157 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*03:01', 'A*32:01', 'B*35:01', 'B*57:01', 'C*04:01', 'C*06:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.23 % of alleles from 158 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*24:02', 'B*15:01', 'C*07:02', 'C*07:04']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.53 % of alleles from 159 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'B*18:01', 'B*52:01', 'C*07:01', 'C*12:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.45 % of alleles from 160 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*25:01', 'B*44:02', 'B*57:01', 'C*05:01', 'C*06:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*18', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.33 % of alleles from 161 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*24:02', 'B*07:02', 'B*51:01', 'C*07:02', 'C*14:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*07', 'B*51', 'C*06', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.52 % of alleles from 162 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*03:01', 'A*24:02', 'B*07:02', 'B*51:01', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*07', 'B*51', 'C*06', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.69 % of alleles from 163 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*11:01', 'B*35:01', 'B*44:02', 'C*04:01', 'C*05:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*35', 'B*44', 'C*04', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.77 % of alleles from 164 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*11:01', 'A*68:01', 'B*15:01', 'B*35:03', 'C*03:03', 'C*04:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*24', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.76 % of alleles from 165 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*11:01', 'B*15:01', 'B*35:01', 'C*03:03', 'C*04:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*24', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.84 % of alleles from 166 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*23:01', 'B*27:05', 'B*50:01', 'C*02:02', 'C*06:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*08', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.62 % of alleles from 167 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*11:01', 'B*07:02', 'B*49:01', 'C*07:01', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*07', 'B*40', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.71 % of alleles from 168 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*03:01', 'A*68:02', 'B*07:02', 'B*14:02', 'C*07:02', 'C*08:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*23', 'A*24', 'B*07', 'B*08', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.59 % of alleles from 169 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*32:01', 'A*68:01', 'B*15:01', 'B*44:02', 'C*03:03', 'C*07:04']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.68 % of alleles from 170 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*24:02', 'A*30:01', 'B*13:02', 'B*35:08', 'C*04:01', 'C*06:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*08', 'B*15', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.47 % of alleles from 171 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*69:01', 'B*37:01', 'B*49:01', 'C*06:02', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*18', 'B*40', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.35 % of alleles from 172 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*11:01', 'B*15:01', 'B*35:01', 'C*03:04', 'C*04:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.44 % of alleles from 173 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:05', 'A*11:01', 'B*40:02', 'B*58:01', 'C*02:02', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*32', 'B*18', 'B*40', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.33 % of alleles from 174 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*68:02', 'B*14:02', 'B*27:05', 'C*02:02', 'C*08:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*07', 'B*08', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.12 % of alleles from 175 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*02:01', 'B*08:01', 'B*44:02', 'C*07:01', 'C*07:04']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*07', 'B*08', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.30 % of alleles from 176 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*03:01', 'A*24:02', 'B*35:03', 'B*45:01', 'C*04:01', 'C*16:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*23', 'A*24', 'B*07', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.19 % of alleles from 177 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*03:02', 'A*25:01', 'B*07:02', 'B*07:14', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*26', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.01 % of alleles from 178 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*31:01', 'B*08:01', 'B*44:03', 'C*04:01', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.00 % of alleles from 179 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*23:01', 'A*30:01', 'B*13:02', 'B*57:03', 'C*06:02', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.81 % of alleles from 180 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*24:02', 'B*08:01', 'B*41:01', 'C*07:01', 'C*17:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.61 % of alleles from 181 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*03:01', 'A*68:01', 'B*08:01', 'B*50:01', 'C*06:02', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*03', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.51 % of alleles from 182 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*24:02', 'A*26:01', 'B*35:03', 'B*38:01', 'C*04:01', 'C*12:03']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*03', 'A*11', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.23 % of alleles from 183 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*02:01', 'B*08:01', 'B*44:02', 'C*05:01', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.31 % of alleles from 184 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*02:01', 'B*08:01', 'B*27:02', 'C*02:02', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*07', 'B*08', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.40 % of alleles from 185 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'B*15:01', 'B*56:01', 'C*01:02', 'C*03:04']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*51', 'C*03', 'C*12']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.44 % of alleles from 186 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*24:02', 'A*26:01', 'B*27:05', 'B*39:01', 'C*01:02', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*24', 'B*07', 'B*15', 'C*06', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.35 % of alleles from 187 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'B*07:02', 'B*18:01', 'C*03:04', 'C*06:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*18', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.39 % of alleles from 188 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*11:01', 'B*35:01', 'B*40:01', 'C*03:04', 'C*04:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*35', 'B*40', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.47 % of alleles from 189 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*24:02', 'B*07:02', 'B*08:01', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*07', 'B*08', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.62 % of alleles from 190 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*68:01', 'B*38:01', 'B*51:01', 'C*12:03', 'C*14:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*24', 'B*35', 'B*51', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.44 % of alleles from 191 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*29:02', 'B*44:02', 'C*05:01', 'C*16:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*18', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.38 % of alleles from 192 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*26:01', 'B*07:02', 'B*40:01', 'C*02:02', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*35', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.29 % of alleles from 193 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*11:01', 'B*35:01', 'B*40:01', 'C*03:04', 'C*04:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*35', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.28 % of alleles from 194 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*24:02', 'B*15:01', 'B*44:02', 'C*03:04', 'C*16:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.44 % of alleles from 195 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*24:02', 'A*25:01', 'B*18:01', 'B*49:01', 'C*07:02', 'C*12:03']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.35 % of alleles from 196 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*03:01', 'A*24:02', 'B*35:01', 'C*04:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*07', 'B*35', 'C*04', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.47 % of alleles from 197 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*24:02', 'B*07:02', 'B*44:02', 'C*05:01', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*07', 'B*08', 'C*04', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.55 % of alleles from 198 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*11:01', 'B*07:02', 'B*15:01', 'C*03:04', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*07', 'B*15', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.71 % of alleles from 199 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*24:02', 'B*07:02', 'B*13:02', 'C*06:02', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*07', 'B*08', 'C*06', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.87 % of alleles from 200 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*68:01', 'B*44:02', 'B*55:01', 'C*03:04', 'C*05:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*07', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.86 % of alleles from 201 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*24:02', 'B*08:01', 'B*35:01', 'C*04:01', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*07', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.85 % of alleles from 202 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*11:01', 'B*39:01', 'B*40:01', 'C*03:04', 'C*12:03']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.76 % of alleles from 203 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*03:01', 'A*24:02', 'B*51:01', 'C*14:02', 'C*16:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*35', 'B*51', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.70 % of alleles from 204 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*24:02', 'B*13:02', 'B*44:02', 'C*05:01', 'C*06:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*13', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.77 % of alleles from 205 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'B*35:01', 'B*39:01', 'C*04:01', 'C*12:03']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*07', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.72 % of alleles from 206 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*26:01', 'B*07:02', 'B*40:01', 'C*03:04', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*07', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.79 % of alleles from 207 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*11:01', 'B*40:01', 'B*44:02', 'C*03:04', 'C*05:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*40', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.86 % of alleles from 208 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'B*08:01', 'B*40:01', 'C*03:04', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*68', 'B*40', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.99 % of alleles from 209 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*11:01', 'A*68:01', 'B*08:01', 'B*35:01', 'C*04:01', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*07', 'B*08', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.90 % of alleles from 210 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*24:02', 'B*15:01', 'B*40:01', 'C*02:02', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*24', 'B*18', 'B*40', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.97 % of alleles from 211 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*25:01', 'A*26:01', 'B*18:01', 'B*38:01', 'C*12:03']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.73 % of alleles from 212 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*24:02', 'B*08:01', 'B*27:05', 'C*02:02', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*07', 'B*08', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.72 % of alleles from 213 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*03:01', 'B*18:01', 'B*35:01', 'C*04:01', 'C*05:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*35', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.71 % of alleles from 214 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*03:01', 'A*30:01', 'B*07:02', 'B*13:02', 'C*06:02', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*07', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.71 % of alleles from 215 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*03:01', 'B*07:02', 'B*55:01', 'C*01:02', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*07', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.77 % of alleles from 216 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*02:01', 'B*27:05', 'B*37:01', 'C*02:02', 'C*06:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.69 % of alleles from 217 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*02:01', 'B*27:02', 'B*37:01', 'C*02:02', 'C*06:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.61 % of alleles from 218 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*23:01', 'B*49:01', 'C*03:04', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*07', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.60 % of alleles from 219 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*68:01', 'B*08:01', 'B*44:02', 'C*07:01', 'C*07:04']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.67 % of alleles from 220 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*03:01', 'B*40:01', 'C*03:04']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*40', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.89 % of alleles from 221 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*03:01', 'B*08:01', 'B*51:01', 'C*01:02', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*07', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.80 % of alleles from 222 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*03:01', 'B*07:02', 'B*44:02', 'C*05:01', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*07', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.94 % of alleles from 223 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:05', 'A*24:02', 'B*35:01', 'B*50:01', 'C*04:01', 'C*06:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.93 % of alleles from 224 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*11:01', 'B*15:01', 'B*52:01', 'C*04:01', 'C*12:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*03', 'A*11', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.88 % of alleles from 225 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*02:01', 'B*08:01', 'B*13:02', 'C*06:02', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*08', 'B*15', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.95 % of alleles from 226 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*24:02', 'B*07:02', 'B*08:01', 'C*07:01', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*07', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.01 % of alleles from 227 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*32:01', 'A*68:01', 'B*07:02', 'B*27:05', 'C*07:01', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*68', 'B*07', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.08 % of alleles from 228 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*26:01', 'B*07:02', 'B*37:01', 'C*02:02', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*07', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.99 % of alleles from 229 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*32:01', 'B*07:02', 'B*44:02', 'C*07:01', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*07', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.13 % of alleles from 230 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*24:02', 'B*51:01', 'B*57:01', 'C*14:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*15', 'B*51', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.16 % of alleles from 231 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*03:01', 'B*40:01', 'B*44:02', 'C*02:02', 'C*03:04']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*40', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.30 % of alleles from 232 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*03:01', 'B*35:01', 'C*04:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*07', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.40 % of alleles from 233 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*02:01', 'B*08:01', 'B*51:01', 'C*02:02', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*35', 'B*51', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.46 % of alleles from 234 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*24:02', 'B*51:01', 'B*57:01', 'C*01:02', 'C*06:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*15', 'B*51', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.45 % of alleles from 235 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'B*40:01', 'B*51:01', 'C*03:04', 'C*15:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*44', 'B*51', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.48 % of alleles from 236 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:20', 'A*11:01', 'B*27:05', 'B*44:02', 'C*01:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*07', 'B*44', 'C*04', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.43 % of alleles from 237 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*03:01', 'A*23:01', 'B*07:02', 'B*18:01', 'C*07:01', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*03', 'A*24', 'B*18', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.49 % of alleles from 238 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*25:01', 'B*18:01', 'B*57:01', 'C*06:02', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*32', 'B*18', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.41 % of alleles from 239 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:02', 'A*33:01', 'B*14:02', 'B*41:02', 'C*08:02', 'C*17:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*68', 'B*07', 'B*08', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.26 % of alleles from 240 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*03:01', 'B*13:02', 'B*44:03', 'C*04:01', 'C*06:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.21 % of alleles from 241 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*03:01', 'B*27:05', 'B*44:02', 'C*01:02', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.27 % of alleles from 242 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*03:01', 'A*24:02', 'B*18:05', 'B*35:08', 'C*04:01', 'C*12:03']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*03', 'A*24', 'B*35', 'B*44', 'C*04', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.33 % of alleles from 243 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*11:01', 'B*15:01', 'B*39:01', 'C*03:04', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.38 % of alleles from 244 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*11:01', 'B*15:01', 'B*27:02', 'C*03:03', 'C*05:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*15', 'B*27', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.44 % of alleles from 245 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*03:01', 'A*30:01', 'B*13:02', 'B*35:03', 'C*04:01', 'C*06:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*07', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.36 % of alleles from 246 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*24:02', 'B*07:02', 'B*39:06', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*24', 'B*07', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.48 % of alleles from 247 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*24:02', 'B*07:02', 'B*44:02', 'C*05:01', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*07', 'B*44', 'C*04', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.53 % of alleles from 248 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*03:01', 'B*15:01', 'B*44:03', 'C*03:04', 'C*04:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.59 % of alleles from 249 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*03:01', 'A*68:02', 'B*18:01', 'B*44:03', 'C*04:01', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*18', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.65 % of alleles from 250 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*68:01', 'A*68:02', 'B*07:02', 'B*13:14', 'C*15:05', 'C*16:04']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*07', 'B*51', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.50 % of alleles from 251 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*68:01', 'B*35:03', 'B*39:01', 'C*04:01', 'C*12:03']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*07', 'B*35', 'C*04', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.49 % of alleles from 252 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*11:01', 'B*07:02', 'B*51:01', 'C*07:02', 'C*15:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*07', 'B*51', 'C*06', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.55 % of alleles from 253 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*03:01', 'A*11:01', 'B*07:02', 'B*35:01', 'C*04:01', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*07', 'B*35', 'C*04', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.60 % of alleles from 254 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:02', 'A*03:01', 'B*07:02', 'B*44:02', 'C*05:01', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*07', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.73 % of alleles from 255 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*03:01', 'A*31:01', 'B*07:02', 'B*40:01', 'C*03:04', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*03', 'A*24', 'B*07', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.78 % of alleles from 256 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*24:02', 'A*31:01', 'B*18:01', 'B*27:05', 'C*02:02', 'C*12:03']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*03', 'B*15', 'B*44', 'C*04', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.57 % of alleles from 257 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*32:01', 'B*44:02', 'C*05:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.56 % of alleles from 258 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*11:01', 'B*07:02', 'B*08:01', 'C*07:01', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*03', 'B*07', 'B*35', 'C*04', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.62 % of alleles from 259 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*31:01', 'A*32:01', 'B*40:01', 'B*49:01', 'C*02:02', 'C*03:04']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*24', 'B*40', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.54 % of alleles from 260 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*03:01', 'A*68:02', 'B*14:02', 'B*35:01', 'C*04:01', 'C*08:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*03', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.47 % of alleles from 261 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*11:01', 'A*29:02', 'B*15:01', 'B*15:03', 'C*03:04', 'C*16:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*03', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.46 % of alleles from 262 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*03:01', 'A*24:02', 'B*07:02', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*07', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.55 % of alleles from 263 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*23:01', 'B*39:24', 'B*44:03', 'C*04:01', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*24', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.47 % of alleles from 264 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*29:02', 'B*15:01', 'B*44:03', 'C*03:04', 'C*16:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.53 % of alleles from 265 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*03:01', 'B*07:02', 'B*58:01', 'C*07:01', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.52 % of alleles from 266 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*11:01', 'B*18:01', 'B*35:01', 'C*04:01', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*35', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.51 % of alleles from 267 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*32:01', 'B*35:03', 'B*41:01', 'C*04:01', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.44 % of alleles from 268 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*03:01', 'B*07:02', 'B*40:01', 'C*03:04', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.43 % of alleles from 269 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*23:01', 'A*68:01', 'B*15:01', 'B*50:01', 'C*03:03', 'C*06:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*24', 'A*68', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.42 % of alleles from 270 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*03:01', 'A*68:01', 'B*35:01', 'C*04:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.32 % of alleles from 271 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*03:01', 'B*07:02', 'B*08:01', 'C*07:01', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.31 % of alleles from 272 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'B*44:02', 'B*55:01', 'C*03:03', 'C*05:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.34 % of alleles from 273 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'B*13:02', 'B*37:01', 'C*06:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.24 % of alleles from 274 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*26:01', 'A*32:01', 'B*08:01', 'B*41:01', 'C*07:02', 'C*17:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*08', 'B*15', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.17 % of alleles from 275 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'B*15:01', 'B*35:03', 'C*03:03', 'C*12:03']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*32', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.27 % of alleles from 276 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'B*08:01', 'B*52:01', 'C*07:01', 'C*12:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*07', 'B*15', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.23 % of alleles from 277 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*02:05', 'B*40:01', 'B*58:01', 'C*03:04', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.28 % of alleles from 278 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'B*39:06', 'B*44:05', 'C*02:02', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.31 % of alleles from 279 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*03:01', 'B*07:02', 'B*38:01', 'C*07:02', 'C*12:03']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.19 % of alleles from 280 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*24:02', 'A*31:01', 'B*35:08', 'B*44:05', 'C*02:02', 'C*04:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.12 % of alleles from 281 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*33:03', 'B*27:05', 'B*58:01', 'C*02:02', 'C*03:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.06 % of alleles from 282 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*02:01', 'B*27:05', 'B*51:01', 'C*01:02', 'C*14:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.99 % of alleles from 283 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*24:02', 'B*13:02', 'B*51:01', 'C*06:02', 'C*14:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.87 % of alleles from 284 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*24:02', 'B*07:02', 'B*08:01', 'C*07:01', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*07', 'B*44', 'C*03', 'C*05']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.80 % of alleles from 285 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*32:01', 'B*15:01', 'B*35:01', 'C*04:01', 'C*05:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.79 % of alleles from 286 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*32:01', 'B*27:05', 'B*40:01', 'C*02:02', 'C*03:04']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.73 % of alleles from 287 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*11:01', 'A*24:02', 'B*35:01', 'B*37:01', 'C*04:01', 'C*06:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*24', 'B*08', 'B*15', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.61 % of alleles from 288 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:05', 'A*23:01', 'B*08:01', 'B*51:01', 'C*07:02', 'C*15:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*35', 'B*51', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.60 % of alleles from 289 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*03:01', 'B*49:01', 'B*56:01', 'C*01:02', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*40', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.60 % of alleles from 290 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*26:13', 'A*68:03', 'B*35:02', 'B*40:01', 'C*03:04', 'C*04:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*68', 'B*35', 'B*44', 'C*03', 'C*04']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.65 % of alleles from 291 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*24:02', 'B*27:05', 'C*01:02', 'C*02:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*08', 'B*15', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.61 % of alleles from 292 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*32:01', 'B*13:02', 'B*27:02', 'C*02:02', 'C*06:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*32', 'B*13', 'B*15', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.60 % of alleles from 293 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:05', 'A*11:01', 'B*35:03', 'B*50:01', 'C*06:02', 'C*12:03']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*07', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.54 % of alleles from 294 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*68:01', 'B*51:01', 'C*14:02', 'C*15:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*68', 'B*35', 'B*51', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.57 % of alleles from 295 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*03:01', 'A*24:02', 'B*07:02', 'B*44:02', 'C*07:02', 'C*16:04']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*03', 'A*24', 'B*07', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.68 % of alleles from 296 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*11:01', 'A*24:02', 'B*35:01', 'B*44:02', 'C*04:01', 'C*05:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*03', 'A*11', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.62 % of alleles from 297 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*11:01', 'A*68:01', 'B*41:02', 'B*52:01', 'C*12:02', 'C*17:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*03', 'A*11', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.50 % of alleles from 298 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*03:01', 'A*26:01', 'B*07:02', 'B*44:02', 'C*05:01', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*03', 'B*07', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.55 % of alleles from 299 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*68:01', 'B*40:01', 'B*44:02', 'C*03:04', 'C*16:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.51 % of alleles from 300 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*02:01', 'B*08:01', 'B*15:01', 'C*03:04', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.62 % of alleles from 301 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*02:01', 'A*03:01', 'B*08:01', 'B*35:01', 'B*44:02', 'C*04:01', 'C*05:01', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.62 % of alleles from 301 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*03:01', 'A*24:02', 'B*07:02', 'B*35:02', 'C*04:01', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*07', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.61 % of alleles from 302 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*23:01', 'A*31:01', 'B*07:02', 'B*35:01', 'C*04:01', 'C*12:03']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*07', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.55 % of alleles from 303 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*24:02', 'B*18:01', 'B*40:01', 'C*03:04', 'C*12:03']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*24', 'B*18', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.55 % of alleles from 304 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'B*15:01', 'B*51:01', 'C*01:02', 'C*02:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*30', 'B*15', 'B*51', 'C*03', 'C*12']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.57 % of alleles from 305 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'B*15:01', 'B*49:01', 'C*03:04', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*18', 'C*03', 'C*12']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.60 % of alleles from 306 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*31:01', 'B*39:01', 'B*44:02', 'C*05:01', 'C*12:03']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*39', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.60 % of alleles from 307 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*33:01', 'B*08:01', 'B*14:02', 'C*07:01', 'C*08:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*08', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.59 % of alleles from 308 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*68:01', 'B*35:01', 'B*57:01', 'C*04:01', 'C*06:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*32', 'B*07', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.53 % of alleles from 309 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*24:02', 'B*07:02', 'B*08:01', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*24', 'B*07', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.62 % of alleles from 310 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'B*07:02', 'B*44:02', 'C*05:01', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*07', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.71 % of alleles from 311 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*68:01', 'B*18:01', 'B*57:01', 'C*05:01', 'C*06:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*18', 'B*44', 'C*04', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.66 % of alleles from 312 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*03:01', 'A*32:01', 'B*07:02', 'B*27:02', 'C*02:02', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*07', 'B*15', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.65 % of alleles from 313 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'B*08:01', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*07', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.65 % of alleles from 313 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*03:01', 'A*11:01', 'B*35:11', 'B*58:01', 'C*03:02', 'C*04:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*03', 'B*35', 'B*51', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.65 % of alleles from 314 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*24:02', 'B*15:01', 'B*37:01', 'C*03:03', 'C*06:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*24', 'A*30', 'B*15', 'B*44', 'C*03', 'C*12']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.64 % of alleles from 315 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*03:01', 'B*18:01', 'B*57:01', 'C*06:02', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*03', 'B*18', 'B*44', 'C*07', 'C*15']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.69 % of alleles from 316 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*29:02', 'B*14:01', 'B*15:01', 'C*03:03', 'C*08:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*30', 'B*14', 'B*15', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.74 % of alleles from 317 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*32:01', 'B*39:06', 'B*44:03', 'C*04:01', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*24', 'A*26', 'B*39', 'B*44', 'C*04', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.78 % of alleles from 318 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*32:01', 'B*35:03', 'B*44:03', 'C*04:01', 'C*16:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*35', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.78 % of alleles from 319 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*03:01', 'B*35:08', 'B*55:01', 'C*03:03', 'C*04:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.77 % of alleles from 320 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*29:02', 'B*44:03', 'B*57:01', 'C*06:02', 'C*16:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*18', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.71 % of alleles from 321 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*68:02', 'B*08:01', 'B*14:02', 'C*07:01', 'C*08:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*32', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.60 % of alleles from 322 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*30:01', 'B*13:02', 'B*40:01', 'C*03:04', 'C*06:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*24', 'B*07', 'B*08', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.50 % of alleles from 323 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*03:01', 'A*31:01', 'B*35:01', 'B*51:01', 'C*04:01', 'C*05:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*03', 'B*35', 'B*51', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.49 % of alleles from 324 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*24:02', 'A*68:01', 'B*15:01', 'B*44:03', 'C*04:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.52 % of alleles from 325 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*26:01', 'B*40:02', 'B*57:01', 'C*03:04', 'C*06:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.46 % of alleles from 326 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*03:01', 'A*11:01', 'B*15:01', 'B*44:02', 'C*01:02', 'C*03:03']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*03', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.51 % of alleles from 327 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*03:01', 'B*13:02', 'B*40:01', 'C*03:04', 'C*06:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.50 % of alleles from 328 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*31:01', 'B*08:01', 'B*35:01', 'C*03:03', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.55 % of alleles from 329 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*03:01', 'A*32:01', 'B*35:01', 'B*39:01', 'C*04:01', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*03', 'B*07', 'B*15', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.49 % of alleles from 330 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*32:01', 'B*15:01', 'C*03:03', 'C*03:04']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.58 % of alleles from 331 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*24:02', 'B*15:01', 'B*39:06', 'C*03:04', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*08', 'B*15', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.68 % of alleles from 332 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*03:01', 'B*07:02', 'B*35:01', 'C*04:01', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*03', 'A*11', 'B*07', 'B*35', 'C*04', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.82 % of alleles from 333 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*03:01', 'A*68:01', 'B*15:18', 'B*35:01', 'C*04:01', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*03', 'A*11', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.87 % of alleles from 334 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*03:01', 'B*08:01', 'B*35:01', 'C*04:01', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.86 % of alleles from 335 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*03:01', 'B*07:02', 'B*35:01', 'C*04:01', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*07', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.95 % of alleles from 336 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*02:01', 'B*07:02', 'B*08:01', 'C*07:01', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*07', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.05 % of alleles from 337 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*29:01', 'B*41:01', 'B*56:01', 'C*01:02', 'C*17:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*07', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.94 % of alleles from 338 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*24:02', 'A*31:01', 'B*18:01', 'B*40:01', 'C*03:04', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*18', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.99 % of alleles from 339 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*03:01', 'B*35:01', 'C*04:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*03', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.99 % of alleles from 339 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*03:01', 'B*27:05', 'B*44:27', 'C*01:02', 'C*07:04']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.03 % of alleles from 340 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*02:01', 'B*08:01', 'B*39:06', 'C*07:01', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.07 % of alleles from 341 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*31:01', 'B*18:01', 'B*27:05', 'C*01:02', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*03', 'B*18', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.02 % of alleles from 342 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*03:01', 'A*24:02', 'B*15:01', 'B*40:01', 'C*03:04']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.98 % of alleles from 343 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*24:02', 'B*15:01', 'B*40:01', 'C*03:04', 'C*04:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.98 % of alleles from 344 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*03:01', 'B*15:01', 'B*40:02', 'C*03:03', 'C*07:04']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 52.02 % of alleles from 345 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'B*40:01', 'B*44:02', 'C*03:04', 'C*05:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*08', 'B*15', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.98 % of alleles from 346 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*24:02', 'B*13:02', 'B*49:01', 'C*06:02', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*18', 'B*40', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.93 % of alleles from 347 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*03:01', 'A*25:01', 'B*35:01', 'B*57:01', 'C*04:01', 'C*06:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*03', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.88 % of alleles from 348 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*03:01', 'A*11:01', 'B*35:01', 'C*02:02', 'C*04:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*08', 'B*15', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.73 % of alleles from 349 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*24:02', 'B*15:01', 'B*40:02', 'C*02:02', 'C*04:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*03', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.63 % of alleles from 350 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*03:01', 'B*07:02', 'B*18:01', 'C*07:01', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*03', 'A*11', 'B*07', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.71 % of alleles from 351 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'B*08:01', 'B*40:01', 'C*03:04', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*32', 'B*35', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.73 % of alleles from 352 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*32:01', 'B*08:01', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.73 % of alleles from 353 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*03:01', 'A*24:02', 'B*27:05', 'B*51:01', 'C*02:02', 'C*14:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*03', 'A*24', 'B*07', 'B*15', 'C*04', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.68 % of alleles from 354 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*24:02', 'A*30:02', 'B*51:01', 'B*58:01', 'C*07:18', 'C*15:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*24', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.62 % of alleles from 355 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'B*15:16', 'B*18:01', 'C*07:01', 'C*14:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*18', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.65 % of alleles from 356 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*03:01', 'B*15:01', 'B*51:01', 'C*01:02', 'C*03:04']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.64 % of alleles from 357 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*23:01', 'A*68:02', 'B*08:01', 'B*44:03', 'C*04:01', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*15', 'B*44', 'C*04', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.64 % of alleles from 358 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'B*08:01', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.64 % of alleles from 358 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'B*37:01', 'B*57:01', 'C*06:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*29', 'B*15', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.56 % of alleles from 359 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*03:01', 'B*07:02', 'B*08:01', 'C*02:02', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*03', 'B*07', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.61 % of alleles from 360 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*03:01', 'B*15:01', 'B*44:02', 'C*03:04', 'C*05:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.60 % of alleles from 361 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*31:01', 'B*08:01', 'B*27:05', 'C*02:02', 'C*07:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*29', 'B*15', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.55 % of alleles from 362 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*24:02', 'A*33:01', 'B*14:02', 'B*35:01', 'C*04:01', 'C*08:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*24', 'B*15', 'B*35', 'C*04', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.55 % of alleles from 363 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*24:02', 'B*07:02', 'B*15:01', 'C*03:04', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*07', 'B*15', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.68 % of alleles from 364 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*02:01', 'B*07:02', 'B*27:05', 'C*01:02', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*07', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.72 % of alleles from 365 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*24:02', 'B*07:02', 'B*44:03', 'C*07:01', 'C*16:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*07', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.76 % of alleles from 366 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*26:01', 'A*30:01', 'B*15:01', 'B*42:02', 'C*01:02', 'C*17:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*07', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.62 % of alleles from 367 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*23:01', 'A*24:02', 'B*18:01', 'B*42:01', 'C*12:03', 'C*17:01']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*18', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.57 % of alleles from 368 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*01:01', 'A*02:01', 'B*08:01', 'B*38:01', 'C*06:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*02', 'B*07', 'B*44', 'C*03', 'C*04']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.54 % of alleles from 369 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*33:01', 'B*15:01', 'B*18:01', 'C*03:04']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*33', 'B*18', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.56 % of alleles from 370 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*03:01', 'A*26:01', 'B*40:01', 'B*56:01', 'C*03:04', 'C*06:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*01', 'A*03', 'B*07', 'B*44', 'C*07', 'C*12']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.47 % of alleles from 371 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*24:02', 'B*07:02', 'B*27:05', 'C*02:02', 'C*07:01', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*07', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.47 % of alleles from 371 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'A*03:01', 'B*07:02', 'B*35:01', 'C*04:01', 'C*07:01', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*03', 'B*07', 'B*35', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.47 % of alleles from 371 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*24:02', 'A*25:01', 'B*39:01', 'B*41:02', 'C*02:02', 'C*07:01', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*40', 'B*44', 'C*03', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.47 % of alleles from 371 donors with 4 or 5 or 6 alleles were predicted correctly.
+INFO:root:The experimentally typed alleles of the database are: ['A*02:01', 'B*07:02', 'B*45:01', 'C*07:01', 'C*07:02']
+INFO:root:The prediction is (for every locus 2 most probable alleles): ['A*02', 'A*24', 'B*07', 'B*35', 'C*06', 'C*07']
+INFO:root:On average (looking at 4 and 5 and 6 allele donors) 51.55 % of alleles from 372 donors with 4 or 5 or 6 alleles were predicted correctly.
+
+

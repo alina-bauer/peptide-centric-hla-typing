@@ -1,0 +1,10 @@
+not allele specific, 4 digit prediction
+
+Name: Allele, Length: 173, dtype: int64
+INFO:root:we have 461560 training samples and 115390 test samples
+INFO:root:Cross-validation scores: [0.31660023 0.31423867 0.31486697 0.31612358 0.31583109]
+INFO:root:Mean CV accuracy: 0.3155321085016033
+Accuracy: 0.3
+F1 score: 0.29
+
+Accuracy with Validation of TueDB : 0.52

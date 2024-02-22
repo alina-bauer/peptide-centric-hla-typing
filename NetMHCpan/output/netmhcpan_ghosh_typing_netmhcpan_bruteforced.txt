@@ -1,0 +1,1527 @@
+NETMHCpan Bruteforce Evaluation on in-house database part
+Bruteforce every allele-specific peptide in ghosh typing
+see what NetMHCpan outputs and check if 4-digit starts with 2-digit
+
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 0, no_match_f: 1
+INFO:root:Sample ID: 1
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 0, no_match_f: 2
+INFO:root:Sample ID: 2
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 0, no_match_f: 3
+INFO:root:Sample ID: 3
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 0, no_match_f: 4
+INFO:root:Sample ID: 4
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 0, no_match_f: 5
+INFO:root:Sample ID: 5
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 0, no_match_f: 6
+INFO:root:Sample ID: 6
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 0, no_match_f: 7
+INFO:root:Sample ID: 7
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 0, no_match_f: 8
+INFO:root:Sample ID: 8
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 0, no_match_f: 9
+INFO:root:Sample ID: 9
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 0, no_match_f: 10
+INFO:root:Sample ID: 10
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 1, no_match_f: 10
+INFO:root:Sample ID: 11
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 2, no_match_f: 10
+INFO:root:Sample ID: 12
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 3, no_match_f: 10
+INFO:root:Sample ID: 13
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 4, no_match_f: 10
+INFO:root:Sample ID: 14
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 5, no_match_f: 10
+INFO:root:Sample ID: 15
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 6, no_match_f: 10
+INFO:root:Sample ID: 16
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 7, no_match_f: 10
+INFO:root:Sample ID: 17
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 8, no_match_f: 10
+INFO:root:Sample ID: 18
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 9, no_match_f: 10
+INFO:root:Sample ID: 19
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 10
+INFO:root:Sample ID: 20
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 11
+INFO:root:Sample ID: 21
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 12
+INFO:root:Sample ID: 22
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 13
+INFO:root:Sample ID: 23
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 14
+INFO:root:Sample ID: 24
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 15
+INFO:root:Sample ID: 25
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 16
+INFO:root:Sample ID: 26
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 17
+INFO:root:Sample ID: 27
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 18
+INFO:root:Sample ID: 28
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 19
+INFO:root:Sample ID: 29
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 20
+INFO:root:Sample ID: 30
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 21
+INFO:root:Sample ID: 31
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 22
+INFO:root:Sample ID: 32
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 23
+INFO:root:Sample ID: 33
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 24
+INFO:root:Sample ID: 34
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 25
+INFO:root:Sample ID: 35
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 26
+INFO:root:Sample ID: 36
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 27
+INFO:root:Sample ID: 37
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 28
+INFO:root:Sample ID: 38
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 29
+INFO:root:Sample ID: 39
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 30
+INFO:root:Sample ID: 40
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 31
+INFO:root:Sample ID: 41
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 32
+INFO:root:Sample ID: 42
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 33
+INFO:root:Sample ID: 43
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 34
+INFO:root:Sample ID: 44
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 35
+INFO:root:Sample ID: 45
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 36
+INFO:root:Sample ID: 46
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 37
+INFO:root:Sample ID: 47
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 38
+INFO:root:Sample ID: 48
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 39
+INFO:root:Sample ID: 49
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 40
+INFO:root:Sample ID: 50
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 41
+INFO:root:Sample ID: 51
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 42
+INFO:root:Sample ID: 52
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 43
+INFO:root:Sample ID: 53
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 44
+INFO:root:Sample ID: 54
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 45
+INFO:root:Sample ID: 55
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 46
+INFO:root:Sample ID: 56
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 47
+INFO:root:Sample ID: 57
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 48
+INFO:root:Sample ID: 58
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 49
+INFO:root:Sample ID: 59
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 50
+INFO:root:Sample ID: 60
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 51
+INFO:root:Sample ID: 61
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 52
+INFO:root:Sample ID: 62
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 53
+INFO:root:Sample ID: 63
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 54
+INFO:root:Sample ID: 64
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 55
+INFO:root:Sample ID: 65
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 56
+INFO:root:Sample ID: 66
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 57
+INFO:root:Sample ID: 67
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 58
+INFO:root:Sample ID: 68
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 59
+INFO:root:Sample ID: 69
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 60
+INFO:root:Sample ID: 70
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 61
+INFO:root:Sample ID: 71
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 62
+INFO:root:Sample ID: 72
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 63
+INFO:root:Sample ID: 73
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 64
+INFO:root:Sample ID: 74
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 65
+INFO:root:Sample ID: 75
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 66
+INFO:root:Sample ID: 76
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 67
+INFO:root:Sample ID: 77
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 68
+INFO:root:Sample ID: 78
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 69
+INFO:root:Sample ID: 79
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 70
+INFO:root:Sample ID: 80
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 71
+INFO:root:Sample ID: 81
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 72
+INFO:root:Sample ID: 82
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 73
+INFO:root:Sample ID: 83
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 74
+INFO:root:Sample ID: 84
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 75
+INFO:root:Sample ID: 85
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 76
+INFO:root:Sample ID: 86
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 77
+INFO:root:Sample ID: 87
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 78
+INFO:root:Sample ID: 88
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 79
+INFO:root:Sample ID: 89
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 80
+INFO:root:Sample ID: 90
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 81
+INFO:root:Sample ID: 91
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 82
+INFO:root:Sample ID: 92
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 83
+INFO:root:Sample ID: 93
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 84
+INFO:root:Sample ID: 94
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 85
+INFO:root:Sample ID: 95
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 86
+INFO:root:Sample ID: 96
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 87
+INFO:root:Sample ID: 97
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 88
+INFO:root:Sample ID: 98
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 89
+INFO:root:Sample ID: 99
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 90
+INFO:root:Sample ID: 100
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 91
+INFO:root:Sample ID: 101
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 92
+INFO:root:Sample ID: 102
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 93
+INFO:root:Sample ID: 103
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 94
+INFO:root:Sample ID: 104
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 95
+INFO:root:Sample ID: 105
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 96
+INFO:root:Sample ID: 106
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 97
+INFO:root:Sample ID: 107
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 98
+INFO:root:Sample ID: 108
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 99
+INFO:root:Sample ID: 109
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 100
+INFO:root:Sample ID: 110
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 101
+INFO:root:Sample ID: 111
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 102
+INFO:root:Sample ID: 112
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 103
+INFO:root:Sample ID: 113
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 104
+INFO:root:Sample ID: 114
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 105
+INFO:root:Sample ID: 115
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 106
+INFO:root:Sample ID: 116
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 107
+INFO:root:Sample ID: 117
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 108
+INFO:root:Sample ID: 118
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 109
+INFO:root:Sample ID: 119
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 110
+INFO:root:Sample ID: 120
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 111
+INFO:root:Sample ID: 121
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 112
+INFO:root:Sample ID: 122
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 113
+INFO:root:Sample ID: 123
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 114
+INFO:root:Sample ID: 124
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 115
+INFO:root:Sample ID: 125
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 116
+INFO:root:Sample ID: 126
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 117
+INFO:root:Sample ID: 127
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 118
+INFO:root:Sample ID: 128
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 119
+INFO:root:Sample ID: 129
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 120
+INFO:root:Sample ID: 130
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 121
+INFO:root:Sample ID: 131
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 122
+INFO:root:Sample ID: 132
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 123
+INFO:root:Sample ID: 133
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 124
+INFO:root:Sample ID: 134
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 125
+INFO:root:Sample ID: 135
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 126
+INFO:root:Sample ID: 136
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 127
+INFO:root:Sample ID: 137
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 128
+INFO:root:Sample ID: 138
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 129
+INFO:root:Sample ID: 139
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 130
+INFO:root:Sample ID: 140
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 131
+INFO:root:Sample ID: 141
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 132
+INFO:root:Sample ID: 142
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 133
+INFO:root:Sample ID: 143
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 134
+INFO:root:Sample ID: 144
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 135
+INFO:root:Sample ID: 145
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 136
+INFO:root:Sample ID: 146
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 137
+INFO:root:Sample ID: 147
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 138
+INFO:root:Sample ID: 148
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 139
+INFO:root:Sample ID: 149
+INFO:root:The prediction (with frequency taken into account) is: A0201
+INFO:root:match_f: 10, no_match_f: 140
+INFO:root:Sample ID: 150
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 10, no_match_f: 141
+INFO:root:Sample ID: 151
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 10, no_match_f: 142
+INFO:root:Sample ID: 152
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 10, no_match_f: 143
+INFO:root:Sample ID: 153
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 10, no_match_f: 144
+INFO:root:Sample ID: 154
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 10, no_match_f: 145
+INFO:root:Sample ID: 155
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 10, no_match_f: 146
+INFO:root:Sample ID: 156
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 10, no_match_f: 147
+INFO:root:Sample ID: 157
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 10, no_match_f: 148
+INFO:root:Sample ID: 158
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 10, no_match_f: 149
+INFO:root:Sample ID: 159
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 10, no_match_f: 150
+INFO:root:Sample ID: 160
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 11, no_match_f: 150
+INFO:root:Sample ID: 161
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 12, no_match_f: 150
+INFO:root:Sample ID: 162
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 13, no_match_f: 150
+INFO:root:Sample ID: 163
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 14, no_match_f: 150
+INFO:root:Sample ID: 164
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 15, no_match_f: 150
+INFO:root:Sample ID: 165
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 16, no_match_f: 150
+INFO:root:Sample ID: 166
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 17, no_match_f: 150
+INFO:root:Sample ID: 167
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 18, no_match_f: 150
+INFO:root:Sample ID: 168
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 19, no_match_f: 150
+INFO:root:Sample ID: 169
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 150
+INFO:root:Sample ID: 170
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 151
+INFO:root:Sample ID: 171
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 152
+INFO:root:Sample ID: 172
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 153
+INFO:root:Sample ID: 173
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 154
+INFO:root:Sample ID: 174
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 155
+INFO:root:Sample ID: 175
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 156
+INFO:root:Sample ID: 176
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 157
+INFO:root:Sample ID: 177
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 158
+INFO:root:Sample ID: 178
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 159
+INFO:root:Sample ID: 179
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 160
+INFO:root:Sample ID: 180
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 161
+INFO:root:Sample ID: 181
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 162
+INFO:root:Sample ID: 182
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 163
+INFO:root:Sample ID: 183
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 164
+INFO:root:Sample ID: 184
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 165
+INFO:root:Sample ID: 185
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 166
+INFO:root:Sample ID: 186
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 167
+INFO:root:Sample ID: 187
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 168
+INFO:root:Sample ID: 188
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 169
+INFO:root:Sample ID: 189
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 170
+INFO:root:Sample ID: 190
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 171
+INFO:root:Sample ID: 191
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 172
+INFO:root:Sample ID: 192
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 173
+INFO:root:Sample ID: 193
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 174
+INFO:root:Sample ID: 194
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 175
+INFO:root:Sample ID: 195
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 176
+INFO:root:Sample ID: 196
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 177
+INFO:root:Sample ID: 197
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 178
+INFO:root:Sample ID: 198
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 179
+INFO:root:Sample ID: 199
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 180
+INFO:root:Sample ID: 200
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 181
+INFO:root:Sample ID: 201
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 182
+INFO:root:Sample ID: 202
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 183
+INFO:root:Sample ID: 203
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 184
+INFO:root:Sample ID: 204
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 185
+INFO:root:Sample ID: 205
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 186
+INFO:root:Sample ID: 206
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 187
+INFO:root:Sample ID: 207
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 188
+INFO:root:Sample ID: 208
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 189
+INFO:root:Sample ID: 209
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 190
+INFO:root:Sample ID: 210
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 191
+INFO:root:Sample ID: 211
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 192
+INFO:root:Sample ID: 212
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 193
+INFO:root:Sample ID: 213
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 194
+INFO:root:Sample ID: 214
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 195
+INFO:root:Sample ID: 215
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 196
+INFO:root:Sample ID: 216
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 197
+INFO:root:Sample ID: 217
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 198
+INFO:root:Sample ID: 218
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 199
+INFO:root:Sample ID: 219
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 200
+INFO:root:Sample ID: 220
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 201
+INFO:root:Sample ID: 221
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 202
+INFO:root:Sample ID: 222
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 203
+INFO:root:Sample ID: 223
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 204
+INFO:root:Sample ID: 224
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 205
+INFO:root:Sample ID: 225
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 206
+INFO:root:Sample ID: 226
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 207
+INFO:root:Sample ID: 227
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 208
+INFO:root:Sample ID: 228
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 209
+INFO:root:Sample ID: 229
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 210
+INFO:root:Sample ID: 230
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 211
+INFO:root:Sample ID: 231
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 212
+INFO:root:Sample ID: 232
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 213
+INFO:root:Sample ID: 233
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 214
+INFO:root:Sample ID: 234
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 215
+INFO:root:Sample ID: 235
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 216
+INFO:root:Sample ID: 236
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 217
+INFO:root:Sample ID: 237
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 218
+INFO:root:Sample ID: 238
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 219
+INFO:root:Sample ID: 239
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 220
+INFO:root:Sample ID: 240
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 221
+INFO:root:Sample ID: 241
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 222
+INFO:root:Sample ID: 242
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 223
+INFO:root:Sample ID: 243
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 224
+INFO:root:Sample ID: 244
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 225
+INFO:root:Sample ID: 245
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 226
+INFO:root:Sample ID: 246
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 227
+INFO:root:Sample ID: 247
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 228
+INFO:root:Sample ID: 248
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 229
+INFO:root:Sample ID: 249
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 230
+INFO:root:Sample ID: 250
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 231
+INFO:root:Sample ID: 251
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 232
+INFO:root:Sample ID: 252
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 233
+INFO:root:Sample ID: 253
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 234
+INFO:root:Sample ID: 254
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 235
+INFO:root:Sample ID: 255
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 236
+INFO:root:Sample ID: 256
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 237
+INFO:root:Sample ID: 257
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 238
+INFO:root:Sample ID: 258
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 239
+INFO:root:Sample ID: 259
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 240
+INFO:root:Sample ID: 260
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 241
+INFO:root:Sample ID: 261
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 242
+INFO:root:Sample ID: 262
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 243
+INFO:root:Sample ID: 263
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 244
+INFO:root:Sample ID: 264
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 245
+INFO:root:Sample ID: 265
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 246
+INFO:root:Sample ID: 266
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 247
+INFO:root:Sample ID: 267
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 248
+INFO:root:Sample ID: 268
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 249
+INFO:root:Sample ID: 269
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 250
+INFO:root:Sample ID: 270
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 251
+INFO:root:Sample ID: 271
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 252
+INFO:root:Sample ID: 272
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 253
+INFO:root:Sample ID: 273
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 254
+INFO:root:Sample ID: 274
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 255
+INFO:root:Sample ID: 275
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 256
+INFO:root:Sample ID: 276
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 257
+INFO:root:Sample ID: 277
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 258
+INFO:root:Sample ID: 278
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 259
+INFO:root:Sample ID: 279
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 260
+INFO:root:Sample ID: 280
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 261
+INFO:root:Sample ID: 281
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 262
+INFO:root:Sample ID: 282
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 263
+INFO:root:Sample ID: 283
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 264
+INFO:root:Sample ID: 284
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 265
+INFO:root:Sample ID: 285
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 266
+INFO:root:Sample ID: 286
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 267
+INFO:root:Sample ID: 287
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 268
+INFO:root:Sample ID: 288
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 269
+INFO:root:Sample ID: 289
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 270
+INFO:root:Sample ID: 290
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 271
+INFO:root:Sample ID: 291
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 272
+INFO:root:Sample ID: 292
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 273
+INFO:root:Sample ID: 293
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 274
+INFO:root:Sample ID: 294
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 275
+INFO:root:Sample ID: 295
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 276
+INFO:root:Sample ID: 296
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 277
+INFO:root:Sample ID: 297
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 278
+INFO:root:Sample ID: 298
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 279
+INFO:root:Sample ID: 299
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 280
+INFO:root:Sample ID: 300
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 281
+INFO:root:Sample ID: 301
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 282
+INFO:root:Sample ID: 302
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 283
+INFO:root:Sample ID: 303
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 284
+INFO:root:Sample ID: 304
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 285
+INFO:root:Sample ID: 305
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 286
+INFO:root:Sample ID: 306
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 287
+INFO:root:Sample ID: 307
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 288
+INFO:root:Sample ID: 308
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 289
+INFO:root:Sample ID: 309
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 290
+INFO:root:Sample ID: 310
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 291
+INFO:root:Sample ID: 311
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 292
+INFO:root:Sample ID: 312
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 293
+INFO:root:Sample ID: 313
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 294
+INFO:root:Sample ID: 314
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 295
+INFO:root:Sample ID: 315
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 296
+INFO:root:Sample ID: 316
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 297
+INFO:root:Sample ID: 317
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 298
+INFO:root:Sample ID: 318
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 299
+INFO:root:Sample ID: 319
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 300
+INFO:root:Sample ID: 320
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 301
+INFO:root:Sample ID: 321
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 302
+INFO:root:Sample ID: 322
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 303
+INFO:root:Sample ID: 323
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 304
+INFO:root:Sample ID: 324
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 305
+INFO:root:Sample ID: 325
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 306
+INFO:root:Sample ID: 326
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 307
+INFO:root:Sample ID: 327
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 308
+INFO:root:Sample ID: 328
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 309
+INFO:root:Sample ID: 329
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 310
+INFO:root:Sample ID: 330
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 311
+INFO:root:Sample ID: 331
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 312
+INFO:root:Sample ID: 332
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 313
+INFO:root:Sample ID: 333
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 314
+INFO:root:Sample ID: 334
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 315
+INFO:root:Sample ID: 335
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 316
+INFO:root:Sample ID: 336
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 317
+INFO:root:Sample ID: 337
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 318
+INFO:root:Sample ID: 338
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 319
+INFO:root:Sample ID: 339
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 320
+INFO:root:Sample ID: 340
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 321
+INFO:root:Sample ID: 341
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 322
+INFO:root:Sample ID: 342
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 323
+INFO:root:Sample ID: 343
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 324
+INFO:root:Sample ID: 344
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 325
+INFO:root:Sample ID: 345
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 326
+INFO:root:Sample ID: 346
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 327
+INFO:root:Sample ID: 347
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 328
+INFO:root:Sample ID: 348
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 329
+INFO:root:Sample ID: 349
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 330
+INFO:root:Sample ID: 350
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 331
+INFO:root:Sample ID: 351
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 332
+INFO:root:Sample ID: 352
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 333
+INFO:root:Sample ID: 353
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 334
+INFO:root:Sample ID: 354
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 335
+INFO:root:Sample ID: 355
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 336
+INFO:root:Sample ID: 356
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 337
+INFO:root:Sample ID: 357
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 338
+INFO:root:Sample ID: 358
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 339
+INFO:root:Sample ID: 359
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 340
+INFO:root:Sample ID: 360
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 341
+INFO:root:Sample ID: 361
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 342
+INFO:root:Sample ID: 362
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 343
+INFO:root:Sample ID: 363
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 344
+INFO:root:Sample ID: 364
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 345
+INFO:root:Sample ID: 365
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 346
+INFO:root:Sample ID: 366
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 347
+INFO:root:Sample ID: 367
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 348
+INFO:root:Sample ID: 368
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 349
+INFO:root:Sample ID: 369
+INFO:root:The prediction (with frequency taken into account) is: B0801
+INFO:root:match_f: 20, no_match_f: 350
+INFO:root:Sample ID: 370
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 351
+INFO:root:Sample ID: 371
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 352
+INFO:root:Sample ID: 372
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 353
+INFO:root:Sample ID: 373
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 354
+INFO:root:Sample ID: 374
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 355
+INFO:root:Sample ID: 375
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 356
+INFO:root:Sample ID: 376
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 357
+INFO:root:Sample ID: 377
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 358
+INFO:root:Sample ID: 378
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 359
+INFO:root:Sample ID: 379
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 360
+INFO:root:Sample ID: 380
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 361
+INFO:root:Sample ID: 381
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 362
+INFO:root:Sample ID: 382
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 363
+INFO:root:Sample ID: 383
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 364
+INFO:root:Sample ID: 384
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 365
+INFO:root:Sample ID: 385
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 366
+INFO:root:Sample ID: 386
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 367
+INFO:root:Sample ID: 387
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 368
+INFO:root:Sample ID: 388
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 369
+INFO:root:Sample ID: 389
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 370
+INFO:root:Sample ID: 390
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 371
+INFO:root:Sample ID: 391
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 372
+INFO:root:Sample ID: 392
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 373
+INFO:root:Sample ID: 393
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 374
+INFO:root:Sample ID: 394
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 375
+INFO:root:Sample ID: 395
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 376
+INFO:root:Sample ID: 396
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 377
+INFO:root:Sample ID: 397
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 378
+INFO:root:Sample ID: 398
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 379
+INFO:root:Sample ID: 399
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 380
+INFO:root:Sample ID: 400
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 381
+INFO:root:Sample ID: 401
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 382
+INFO:root:Sample ID: 402
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 383
+INFO:root:Sample ID: 403
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 384
+INFO:root:Sample ID: 404
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 385
+INFO:root:Sample ID: 405
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 386
+INFO:root:Sample ID: 406
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 387
+INFO:root:Sample ID: 407
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 388
+INFO:root:Sample ID: 408
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 389
+INFO:root:Sample ID: 409
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 390
+INFO:root:Sample ID: 410
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 391
+INFO:root:Sample ID: 411
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 392
+INFO:root:Sample ID: 412
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 393
+INFO:root:Sample ID: 413
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 394
+INFO:root:Sample ID: 414
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 395
+INFO:root:Sample ID: 415
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 396
+INFO:root:Sample ID: 416
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 397
+INFO:root:Sample ID: 417
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 398
+INFO:root:Sample ID: 418
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 399
+INFO:root:Sample ID: 419
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 400
+INFO:root:Sample ID: 420
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 401
+INFO:root:Sample ID: 421
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 402
+INFO:root:Sample ID: 422
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 403
+INFO:root:Sample ID: 423
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 404
+INFO:root:Sample ID: 424
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 405
+INFO:root:Sample ID: 425
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 406
+INFO:root:Sample ID: 426
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 407
+INFO:root:Sample ID: 427
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 408
+INFO:root:Sample ID: 428
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 409
+INFO:root:Sample ID: 429
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 410
+INFO:root:Sample ID: 430
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 411
+INFO:root:Sample ID: 431
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 20, no_match_f: 412
+INFO:root:Sample ID: 432
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 21, no_match_f: 412
+INFO:root:Sample ID: 433
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 22, no_match_f: 412
+INFO:root:Sample ID: 434
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 23, no_match_f: 412
+INFO:root:Sample ID: 435
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 24, no_match_f: 412
+INFO:root:Sample ID: 436
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 25, no_match_f: 412
+INFO:root:Sample ID: 437
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 26, no_match_f: 412
+INFO:root:Sample ID: 438
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 27, no_match_f: 412
+INFO:root:Sample ID: 439
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 412
+INFO:root:Sample ID: 440
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 413
+INFO:root:Sample ID: 441
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 414
+INFO:root:Sample ID: 442
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 415
+INFO:root:Sample ID: 443
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 416
+INFO:root:Sample ID: 444
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 417
+INFO:root:Sample ID: 445
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 418
+INFO:root:Sample ID: 446
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 419
+INFO:root:Sample ID: 447
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 420
+INFO:root:Sample ID: 448
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 421
+INFO:root:Sample ID: 449
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 422
+INFO:root:Sample ID: 450
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 423
+INFO:root:Sample ID: 451
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 424
+INFO:root:Sample ID: 452
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 425
+INFO:root:Sample ID: 453
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 426
+INFO:root:Sample ID: 454
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 427
+INFO:root:Sample ID: 455
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 428
+INFO:root:Sample ID: 456
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 429
+INFO:root:Sample ID: 457
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 430
+INFO:root:Sample ID: 458
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 431
+INFO:root:Sample ID: 459
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 432
+INFO:root:Sample ID: 460
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 433
+INFO:root:Sample ID: 461
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 434
+INFO:root:Sample ID: 462
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 435
+INFO:root:Sample ID: 463
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 436
+INFO:root:Sample ID: 464
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 437
+INFO:root:Sample ID: 465
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 438
+INFO:root:Sample ID: 466
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 439
+INFO:root:Sample ID: 467
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 440
+INFO:root:Sample ID: 468
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 441
+INFO:root:Sample ID: 469
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 442
+INFO:root:Sample ID: 470
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 443
+INFO:root:Sample ID: 471
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 444
+INFO:root:Sample ID: 472
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 445
+INFO:root:Sample ID: 473
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 446
+INFO:root:Sample ID: 474
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 447
+INFO:root:Sample ID: 475
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 448
+INFO:root:Sample ID: 476
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 449
+INFO:root:Sample ID: 477
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 450
+INFO:root:Sample ID: 478
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 451
+INFO:root:Sample ID: 479
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 452
+INFO:root:Sample ID: 480
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 453
+INFO:root:Sample ID: 481
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 454
+INFO:root:Sample ID: 482
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 455
+INFO:root:Sample ID: 483
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 456
+INFO:root:Sample ID: 484
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 457
+INFO:root:Sample ID: 485
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 458
+INFO:root:Sample ID: 486
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 459
+INFO:root:Sample ID: 487
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 460
+INFO:root:Sample ID: 488
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 461
+INFO:root:Sample ID: 489
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 462
+INFO:root:Sample ID: 490
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 463
+INFO:root:Sample ID: 491
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 464
+INFO:root:Sample ID: 492
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 465
+INFO:root:Sample ID: 493
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 466
+INFO:root:Sample ID: 494
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 467
+INFO:root:Sample ID: 495
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 468
+INFO:root:Sample ID: 496
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 469
+INFO:root:Sample ID: 497
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 470
+INFO:root:Sample ID: 498
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 471
+INFO:root:Sample ID: 499
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 472
+INFO:root:Sample ID: 500
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 473
+INFO:root:Sample ID: 501
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 474
+INFO:root:Sample ID: 502
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 475
+INFO:root:Sample ID: 503
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 476
+INFO:root:Sample ID: 504
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 477
+INFO:root:Sample ID: 505
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 478
+INFO:root:Sample ID: 506
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 479
+INFO:root:Sample ID: 507
+INFO:root:The prediction (with frequency taken into account) is: C0701
+INFO:root:match_f: 28, no_match_f: 480
