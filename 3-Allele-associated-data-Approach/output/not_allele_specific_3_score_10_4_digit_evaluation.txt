@@ -1,0 +1,9 @@
+not allele specific
+1/len(alleles)
+score für allele specific 10
+
+4-digit
+
+There are 778 donors in total.
+On average 77 % of the donor alleles are matching for donors with 4, 5 or 6 alleles.
+On average 88 % of tuedb peptides are also allele-specific peptide.

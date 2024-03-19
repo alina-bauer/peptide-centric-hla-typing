@@ -1,0 +1,7 @@
+Gibbs clustering
+Allele specific peptides
+4-digit
+
+There are 778 donors in total.
+On average 80.60 % of the donor alleles are matching for donors with 4, 5 or 6 alleles.
+On average 18.74 % of tuedb peptides are also allele-specific peptide.

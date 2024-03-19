@@ -1,0 +1,5 @@
+not allele specific
+1/len(alleles)
+score für allele specific 2
+
+4-digit

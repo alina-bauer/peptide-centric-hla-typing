@@ -1,2 +1,0 @@
-eluted ligands dataset result dict 
-no gibbs clustering bei 
