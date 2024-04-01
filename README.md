@@ -1,6 +1,7 @@
 
 This code presented the work of the bachelor thesis 'Exploring peptide-centric HLA-type prediction with data mining and machine learning'.
 The three explorative typing approaches (NetMHCpan approach, allele-associated-lookup approach and Random Forest approach) can be evaluated on the TueDB.
+The results of all approaches are in a result txt in the corresponding folder.
 If you want to try the peptide-centric HLA typing, the best-performing allele-associated lookup approach can be executed in the allele_associated_lookup_allele_specific_peptides.ipynb.
 
 # 0 - Baseline
@@ -46,4 +47,3 @@ The TueDB was preprocessed and adapted to the use case.
 
 # DATA
 The DATA folder comprises 4.62 GB and entails the TueDB, allele-associated-dataset and additional external data. The DATA folder can be requested on demand.
-The results of all approaches are in a result txt in the corresponding folder.
