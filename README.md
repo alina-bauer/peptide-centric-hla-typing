@@ -1,7 +1,7 @@
 
 This code presented the work of the bachelor thesis 'Exploring peptide-centric HLA-type prediction with data mining and machine learning'.
 The three explorative typing approaches (NetMHCpan approach, allele-associated-lookup approach and Random Forest approach) can be evaluated on the TueDB.
-The best-performing allele-associated lookup approach can be executed in the allele_associated_lookup_allele_specific_peptides.ipynb for own peptide input.
+If you want to try the peptide-centric HLA typing, the best-performing allele-associated lookup approach can be executed in the allele_associated_lookup_allele_specific_peptides.ipynb.
 
 # 0 - Baseline
 The baseline for 2-digit and 4-digit prediction can be run in the baseline.ipynb.
