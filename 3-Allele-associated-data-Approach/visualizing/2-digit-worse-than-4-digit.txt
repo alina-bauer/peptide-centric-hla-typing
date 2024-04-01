@@ -1,4 +1,0 @@
-example donor 1010
-where 4-digit prediction was better than 2-digit prediction
-prediction ['A2402', 'A0201', 'B5101', 'B5001', 'C0602', 'C0102'], donor alleles ['A0201', 'A2402', 'B5001', 'B5101', 'C0102', 'C0602'], perc_matching 1.0
-prediction ['A02', 'A23', 'B51', 'B40', 'C06', 'C01'], donor alleles ['A02', 'A24', 'B50', 'B51', 'C01', 'C06'], perc_matching 0.6666666666666666

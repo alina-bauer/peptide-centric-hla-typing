@@ -1,0 +1,5 @@
+Results:
+- 2-digit: 30%
+On average (only looking at 4 and 5 and 6 allele donors) 29 % of alleles from 753 donors with 4 or 5 or 6 alleles were predicted correctly.
+- 4-digit: 29%
+On average (only looking at 4 and 5 and 6 allele donors) 30 % of alleles from 753 donors with 4 or 5 or 6 alleles were predicted correctly.

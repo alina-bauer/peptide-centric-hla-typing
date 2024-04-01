@@ -1,0 +1,2 @@
+Results: 
+Average accuracy: 0.83
